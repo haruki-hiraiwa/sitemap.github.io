@@ -684,6 +684,7 @@ picture {
 #footer .footer__sitemap--inner {
   width: 19.4%;
   padding: 30px 10px;
+  margin-right:10px;
   background-color: #fff;
   border-radius: 24px
 }
